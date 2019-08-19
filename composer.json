@@ -1,0 +1,12 @@
+{
+    "name": "mapkyca/console-usercreate",
+    "type": "known-console",
+    "description": "Create a user from the console",
+    "version": "1.0.0",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "UserCreate"
+    }
+}
